@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadickyakubu1
+- 👋 Hi, I’m @sadickyakubu
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning AI Programming 
 - 💞️ I’m looking to collaborate on Any fun and cool projects
